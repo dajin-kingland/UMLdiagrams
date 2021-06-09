@@ -1,56 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T09:38:37.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Hk4K8F_Nc0okRDw81mNL" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T01:27:11.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0S_QQkBFXW1iiBQXF9ub" version="14.7.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FABi1pu8SRAAy6zYCwlk-1" value="Build Contract Date Details&lt;br&gt;proposal_start_date&lt;br&gt;proposal_end_date&lt;br&gt;contract_start_date&lt;br&gt;contract_end_date" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="400" y="10" width="200" height="100" as="geometry" />
+          <mxGeometry x="630" y="345" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FABi1pu8SRAAy6zYCwlk-6" value="Build Store Mapping&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;Map&amp;lt;storeId, StoreModel&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="200" height="60" as="geometry" />
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-7" target="FABi1pu8SRAAy6zYCwlk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-7" target="FABi1pu8SRAAy6zYCwlk-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF9999;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-7" target="FABi1pu8SRAAy6zYCwlk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF9999;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-7" target="FABi1pu8SRAAy6zYCwlk-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="240" />
+              <mxPoint x="170" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-7" value="Build All Items For Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="190" width="200" height="60" as="geometry" />
+          <mxGeometry x="160" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-8" value="Calculate Request Met" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="460" width="165" height="50" as="geometry" />
+          <mxGeometry x="390" y="430" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-9" value="Build Contract Details" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="165" height="50" as="geometry" />
+          <mxGeometry x="160" y="280" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-10" target="FABi1pu8SRAAy6zYCwlk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-10" target="FABi1pu8SRAAy6zYCwlk-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-10" value="Build QD Contract Details" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="165" height="50" as="geometry" />
+          <mxGeometry x="160" y="560" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-12" target="FABi1pu8SRAAy6zYCwlk-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-12" value="Calculate Contract Date" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="165" height="50" as="geometry" />
+          <mxGeometry x="390" y="370" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FABi1pu8SRAAy6zYCwlk-13" value="Calculate Location Alloance" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="165" height="50" as="geometry" />
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-13" value="Calculate Location Allowance" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-14" value="Build Basic Fields" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="165" height="50" as="geometry" />
+          <mxGeometry x="390" y="250" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-15" value="Build Basic Fields" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="165" height="50" as="geometry" />
+          <mxGeometry x="480" y="520" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-16" value="Calculate Location Discount" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="620" width="165" height="50" as="geometry" />
+          <mxGeometry x="480" y="580" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-17" value="Regular" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="310" y="565" width="60" height="40" as="geometry" />
+          <mxGeometry x="365" y="520" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-18" value="All Items" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="310" y="690" width="60" height="40" as="geometry" />
+          <mxGeometry x="365" y="700" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FABi1pu8SRAAy6zYCwlk-19" value="generateFullProposal" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="120" y="20" width="165" height="50" as="geometry" />
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-19" target="FABi1pu8SRAAy6zYCwlk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-19" target="FABi1pu8SRAAy6zYCwlk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FABi1pu8SRAAy6zYCwlk-19" target="FABi1pu8SRAAy6zYCwlk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-19" value="contract break down" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-20" value="Build Basic Fields" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="690" width="165" height="50" as="geometry" />
+          <mxGeometry x="480" y="750" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FABi1pu8SRAAy6zYCwlk-21" value="Calculate Location Discount" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="750" width="165" height="50" as="geometry" />
+          <mxGeometry x="480" y="810" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-22" value="Store Mapping&lt;br&gt;(For Warehouse SCAN)" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-29" value="ItemList" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="FABi1pu8SRAAy6zYCwlk-41" value="Build Location Product Offering" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="690" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
