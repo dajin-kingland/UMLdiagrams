@@ -1,143 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T09:34:05.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="FGAkWDAi_ceQAwPnUW13" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T01:36:29.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="3snijkH4hJK6KOOVP5-Z" version="14.7.10" type="github">
   <diagram id="5JaN1CiCvEepgImw7LRu" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wDC4hqzQodUpksadTZJr-20" value="Contract Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="100" height="760" as="geometry" />
+          <mxGeometry x="429" y="40" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-1" value="UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="220" y="200" width="100" height="760" as="geometry" />
+          <mxGeometry x="209" y="40" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="wDC4hqzQodUpksadTZJr-1">
-          <mxGeometry x="45" y="90" width="10" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-2" value="&lt;h1&gt;User Search Item Case Sequence Diagram&lt;/h1&gt;&lt;p&gt;There&#39;re two scenarios for this API:&lt;/p&gt;&lt;p&gt;One for the contract location selection page. It will view a specific location&#39;s item cases.&lt;/p&gt;&lt;p&gt;Another for the contract overview page. It will view all the locations&#39; item cases per contract.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="39" y="40" width="750" height="120" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-3" value="Product Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="100" height="760" as="geometry" />
+          <mxGeometry x="649" y="40" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="wDC4hqzQodUpksadTZJr-3">
-          <mxGeometry x="45" y="130" width="10" height="190" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-10" value="Location ID" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-4" target="wDC4hqzQodUpksadTZJr-3">
+        <mxCell id="wDC4hqzQodUpksadTZJr-10" value="Location ID" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-4">
           <mxGeometry x="-0.6087" width="80" relative="1" as="geometry">
-            <mxPoint x="270" y="306" as="sourcePoint" />
-            <mxPoint x="460" y="330" as="targetPoint" />
+            <mxPoint x="259" y="136" as="sourcePoint" />
+            <mxPoint x="698.5" y="165" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-11" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-3">
+        <mxCell id="wDC4hqzQodUpksadTZJr-11" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.6051" relative="1" as="geometry">
-            <mxPoint x="570" y="371" as="sourcePoint" />
-            <mxPoint x="274" y="371" as="targetPoint" />
+            <mxPoint x="698.5" y="201" as="sourcePoint" />
+            <mxPoint x="263" y="201" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-12" value="Contract Location&lt;br&gt;Selection Page" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="90" y="260" width="30" height="60" as="geometry" />
+          <mxGeometry x="79" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-13" value="View Items" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-12" target="wDC4hqzQodUpksadTZJr-1">
+        <mxCell id="wDC4hqzQodUpksadTZJr-13" value="View Items" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-12">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="160" y="290" as="sourcePoint" />
-            <mxPoint x="240" y="290" as="targetPoint" />
+            <mxPoint x="149" y="120" as="sourcePoint" />
+            <mxPoint x="258.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="265" y="440" width="10" height="90" as="geometry" />
+          <mxGeometry x="254" y="270" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-15" value="Contract Overview Page" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="90" y="410" width="30" height="60" as="geometry" />
+          <mxGeometry x="79" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-16" value="View Items" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-15">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="160" y="440" as="sourcePoint" />
-            <mxPoint x="269.5" y="440" as="targetPoint" />
+            <mxPoint x="149" y="270" as="sourcePoint" />
+            <mxPoint x="258.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-18" value="Location ID List" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-14" target="wDC4hqzQodUpksadTZJr-3">
+        <mxCell id="wDC4hqzQodUpksadTZJr-18" value="Location ID List" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-14">
           <mxGeometry x="-0.6087" width="80" relative="1" as="geometry">
-            <mxPoint x="276" y="455.47" as="sourcePoint" />
-            <mxPoint x="570.5" y="455.47" as="targetPoint" />
+            <mxPoint x="265" y="285.47" as="sourcePoint" />
+            <mxPoint x="698.5" y="315" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-19" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-3">
+        <mxCell id="wDC4hqzQodUpksadTZJr-19" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.6087" relative="1" as="geometry">
-            <mxPoint x="571" y="520" as="sourcePoint" />
-            <mxPoint x="275" y="520" as="targetPoint" />
+            <mxPoint x="698.5" y="350" as="sourcePoint" />
+            <mxPoint x="264" y="350" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="705" y="560" width="10" height="250" as="geometry" />
+          <mxGeometry x="694" y="370" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-23" value="Regular QD Contract" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="90" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="79" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="485" y="585" width="10" height="90" as="geometry" />
+          <mxGeometry x="474" y="395" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-26" value="Contract Breakdown" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-23" target="wDC4hqzQodUpksadTZJr-20">
-          <mxGeometry x="0.3264" width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="629.5" as="sourcePoint" />
-            <mxPoint x="464.5" y="629.5" as="targetPoint" />
+        <mxCell id="wDC4hqzQodUpksadTZJr-26" value="Contract Breakdown" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-23">
+          <mxGeometry x="-0.4538" width="80" relative="1" as="geometry">
+            <mxPoint x="289" y="439.5" as="sourcePoint" />
+            <mxPoint x="478.5" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-27" value="Selected Item Ids" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-20" target="wDC4hqzQodUpksadTZJr-3">
+        <mxCell id="wDC4hqzQodUpksadTZJr-27" value="Selected Item Ids" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.3591" width="80" relative="1" as="geometry">
-            <mxPoint x="290" y="820" as="sourcePoint" />
-            <mxPoint x="724.5" y="820" as="targetPoint" />
+            <mxPoint x="478.5" y="420" as="sourcePoint" />
+            <mxPoint x="698.5" y="420" as="targetPoint" />
             <mxPoint x="1" as="offset" />
             <Array as="points">
-              <mxPoint x="640" y="610" />
+              <mxPoint x="629" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wDC4hqzQodUpksadTZJr-28" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-3" target="wDC4hqzQodUpksadTZJr-20">
+        <mxCell id="wDC4hqzQodUpksadTZJr-28" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.3591" relative="1" as="geometry">
-            <mxPoint x="719.5" y="530" as="sourcePoint" />
-            <mxPoint x="560" y="720" as="targetPoint" />
+            <mxPoint x="698.5" y="480" as="sourcePoint" />
+            <mxPoint x="478.5" y="480" as="targetPoint" />
             <mxPoint x="1" as="offset" />
             <Array as="points">
-              <mxPoint x="570" y="670" />
+              <mxPoint x="559" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="485" y="721" width="10" height="90" as="geometry" />
+          <mxGeometry x="474" y="531" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-30" value="Regular QD Contract" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="90" y="698" width="30" height="60" as="geometry" />
+          <mxGeometry x="79" y="508" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-31" value="Workflow Rules Executing" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wDC4hqzQodUpksadTZJr-30">
-          <mxGeometry x="0.3264" width="80" relative="1" as="geometry">
-            <mxPoint x="130" y="727.5" as="sourcePoint" />
-            <mxPoint x="489.5" y="728" as="targetPoint" />
+          <mxGeometry x="-0.4538" width="80" relative="1" as="geometry">
+            <mxPoint x="119" y="537.5" as="sourcePoint" />
+            <mxPoint x="478.5" y="538" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-32" value="Selected Item Ids" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.3591" width="80" relative="1" as="geometry">
-            <mxPoint x="489.5" y="751" as="sourcePoint" />
-            <mxPoint x="709.5" y="751" as="targetPoint" />
+            <mxPoint x="478.5" y="561" as="sourcePoint" />
+            <mxPoint x="698.5" y="561" as="targetPoint" />
             <mxPoint x="1" as="offset" />
             <Array as="points">
-              <mxPoint x="635.5" y="751" />
+              <mxPoint x="624.5" y="561" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wDC4hqzQodUpksadTZJr-33" value="Item Case List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.3591" relative="1" as="geometry">
-            <mxPoint x="709.5" y="806" as="sourcePoint" />
-            <mxPoint x="489.5" y="806" as="targetPoint" />
+            <mxPoint x="698.5" y="616" as="sourcePoint" />
+            <mxPoint x="478.5" y="616" as="targetPoint" />
             <mxPoint x="1" as="offset" />
             <Array as="points">
-              <mxPoint x="610" y="806" />
-              <mxPoint x="551" y="806" />
+              <mxPoint x="599" y="616" />
+              <mxPoint x="540" y="616" />
             </Array>
           </mxGeometry>
         </mxCell>
