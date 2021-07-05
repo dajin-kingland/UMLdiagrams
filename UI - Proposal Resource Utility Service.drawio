@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T09:20:04.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.3" etag="FMbl2s40z4wI4vgF9XXg" type="github"><diagram id="8kwpFz_8hoZ5ggLKCEAQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T09:55:53.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-hrZjMvcck1-0aE1W6bo" version="14.8.3" type="github">
+  <diagram id="8kwpFz_8hoZ5ggLKCEAQ" name="Page-1">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-1" value="Proposal Product Resource Utility Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-2" target="4-Lz8o6piJQ2FGdw777i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-2" target="4-Lz8o6piJQ2FGdw777i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-24" value="Generate QD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#B3B3B3;" vertex="1" connectable="0" parent="4-Lz8o6piJQ2FGdw777i-10">
+          <mxGeometry x="0.2875" y="4" relative="1" as="geometry">
+            <mxPoint x="17" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-2" value="Contract Overview" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-3" target="4-Lz8o6piJQ2FGdw777i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-3" value="Item Selection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-4" target="4-Lz8o6piJQ2FGdw777i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-4" value="Location Selection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-5" target="4-Lz8o6piJQ2FGdw777i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-25" value="Add QD to Proposal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#B3B3B3;" vertex="1" connectable="0" parent="4-Lz8o6piJQ2FGdw777i-14">
+          <mxGeometry x="0.1444" y="3" relative="1" as="geometry">
+            <mxPoint x="-141" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-5" value="Exception" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-6" target="4-Lz8o6piJQ2FGdw777i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-6" value="Sign-off" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-7" value="export" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#1A1A1A;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-15" target="4-Lz8o6piJQ2FGdw777i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-39" value="Provide Full Proposal for Display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="4-Lz8o6piJQ2FGdw777i-18">
+          <mxGeometry x="-0.3057" y="2" relative="1" as="geometry">
+            <mxPoint x="-46" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A1A1A;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-15" target="4-Lz8o6piJQ2FGdw777i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-40" value="Provide Full Proposal for Display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="4-Lz8o6piJQ2FGdw777i-19">
+          <mxGeometry x="-0.273" relative="1" as="geometry">
+            <mxPoint x="16" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A1A1A;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-15" target="4-Lz8o6piJQ2FGdw777i-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-15" value="Proposal Data Handler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="295" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#1A1A1A;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-16" target="4-Lz8o6piJQ2FGdw777i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A1A1A;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-16" target="4-Lz8o6piJQ2FGdw777i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-41" value="Provide Item Location Mapping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="4-Lz8o6piJQ2FGdw777i-22">
+          <mxGeometry x="-0.1613" y="3" relative="1" as="geometry">
+            <mxPoint x="40" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A1A1A;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-16" target="4-Lz8o6piJQ2FGdw777i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-16" value="QD Contract Data Handler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="295" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1A1A1A;strokeColor=#1A1A1A;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4-Lz8o6piJQ2FGdw777i-15" target="4-Lz8o6piJQ2FGdw777i-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="370" as="targetPoint" />
+            <mxPoint x="120" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-36" value="Provide QD Contract List for Display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="4-Lz8o6piJQ2FGdw777i-29">
+          <mxGeometry x="-0.1935" y="-2" relative="1" as="geometry">
+            <mxPoint x="61" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Lz8o6piJQ2FGdw777i-38" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.43333333333333335;arrowSize=0.5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
