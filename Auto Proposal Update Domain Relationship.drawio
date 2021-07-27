@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T06:30:13.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="9bAdfWwbvrt6lYnDZyhD" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T06:30:24.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="IobDG9wf016C76k13BHC" version="14.9.2" type="github">
   <diagram id="DQ5C5lG7SInc3p99U6VC" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="eM6x8Jn1wOnyr-W6PkH3-1" value="&lt;b&gt;Proposal Records&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;sketch=0;fontFamily=Helvetica;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eM6x8Jn1wOnyr-W6PkH3-2" value="&lt;b&gt;Workflow WorkItem&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;glass=0;" vertex="1" parent="1">
+        <mxCell id="eM6x8Jn1wOnyr-W6PkH3-2" value="&lt;b&gt;Workflow WorkItem&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
