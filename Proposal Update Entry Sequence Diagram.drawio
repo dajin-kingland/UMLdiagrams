@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T02:01:25.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JpgPVFNyXy4cunV4ag7w" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T02:05:42.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ZvZeZWinGFpM5yokU5Dg" version="14.9.2" type="github">
   <diagram id="vb5DFwSze8nv0TOMKXwz" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
         <mxCell id="UNnZ8YbsLz7KNmraWJ2U-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UNnZ8YbsLz7KNmraWJ2U-22" value="Call Contract Auto Update Strategy" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="1" source="yhGn-xtxUoY_vjiY6p_X-92" target="UNnZ8YbsLz7KNmraWJ2U-21" edge="1">
+        <mxCell id="UNnZ8YbsLz7KNmraWJ2U-22" value="Call Contract Auto Update Command" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="1" source="yhGn-xtxUoY_vjiY6p_X-92" target="UNnZ8YbsLz7KNmraWJ2U-21" edge="1">
           <mxGeometry x="-0.7175" y="-10" relative="1" as="geometry">
             <mxPoint x="440" y="420" as="sourcePoint" />
             <Array as="points">
