@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T01:41:21.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="qKaMsN32l3tLkhLt7GEc" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T01:42:28.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ePkE95o5VYEV2CR6yJ5e" version="14.9.2" type="github">
   <diagram id="tgHGWKusfDArPn2ohMAO" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,24 +28,24 @@
         <mxCell id="WxLa4YCfchPVS8anZFJX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="WxLa4YCfchPVS8anZFJX-8" target="WxLa4YCfchPVS8anZFJX-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="120" />
+              <mxPoint x="530" y="160" />
               <mxPoint x="530" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxLa4YCfchPVS8anZFJX-8" value="New Add Price Group Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="600" y="100" width="120" height="40" as="geometry" />
+        <mxCell id="WxLa4YCfchPVS8anZFJX-8" value="New Add Price Group Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WxLa4YCfchPVS8anZFJX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WxLa4YCfchPVS8anZFJX-11" target="WxLa4YCfchPVS8anZFJX-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="170" />
+              <mxPoint x="540" y="190" />
               <mxPoint x="540" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxLa4YCfchPVS8anZFJX-11" value="Update Price Group Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="600" y="150" width="120" height="40" as="geometry" />
+        <mxCell id="WxLa4YCfchPVS8anZFJX-11" value="Update Price Group Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WxLa4YCfchPVS8anZFJX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="1" source="WxLa4YCfchPVS8anZFJX-12">
           <mxGeometry relative="1" as="geometry">
@@ -56,30 +56,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxLa4YCfchPVS8anZFJX-12" value="Update Pack Quantity Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="WxLa4YCfchPVS8anZFJX-12" value="Update Pack Quantity Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WxLa4YCfchPVS8anZFJX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WxLa4YCfchPVS8anZFJX-13" target="WxLa4YCfchPVS8anZFJX-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="270" />
+              <mxPoint x="540" y="250" />
               <mxPoint x="540" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxLa4YCfchPVS8anZFJX-13" value="New Add Location Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="120" height="40" as="geometry" />
+        <mxCell id="WxLa4YCfchPVS8anZFJX-13" value="New Add Location Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WxLa4YCfchPVS8anZFJX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WxLa4YCfchPVS8anZFJX-14" target="WxLa4YCfchPVS8anZFJX-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="320" />
+              <mxPoint x="530" y="280" />
               <mxPoint x="530" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxLa4YCfchPVS8anZFJX-14" value="Inactive Item Location Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="120" height="40" as="geometry" />
+        <mxCell id="WxLa4YCfchPVS8anZFJX-14" value="Inactive Item Location Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
