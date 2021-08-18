@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T11:54:08.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="YZcspHca-cQkh5w88Jq1" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T11:55:02.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="44Cjd7NgJSSDUA70Qzub" version="14.9.7" type="github">
   <diagram id="6wFEmLDqjUKAB6pb414x" name="Page-1">
-    <mxGraphModel dx="948" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DneQPZvHQnu6ExtlDrkD-23" value="Actions Processor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="DneQPZvHQnu6ExtlDrkD-23" value="Contract Breakdown" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="80" height="520" as="geometry" />
         </mxCell>
         <mxCell id="DneQPZvHQnu6ExtlDrkD-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DneQPZvHQnu6ExtlDrkD-23">
